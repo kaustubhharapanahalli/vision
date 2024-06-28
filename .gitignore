@@ -164,3 +164,4 @@ cython_debug/
 # Project
 *data/*
 *.DS_Store*
+*.vscode*
